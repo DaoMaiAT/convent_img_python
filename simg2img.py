@@ -18,6 +18,7 @@
 # Enhanced by Twizzy Indy
 # June 13 2016
 
+# fix runging python 3.x.x
   
 import sys  
 import struct  
